@@ -43,10 +43,9 @@ URDF description and Gazebo plugins to simulate Velodyne laser scanners
     * Solution: Maintain separate branches for urdf changes (gazebo2 and master)
 
 
-```sudo apt install ros-melodic-velodyne-gazebo-plugins```
-
 
 # Example Gazebo Robot
+```sudo apt install ros-melodic-velodyne-gazebo-plugins```
 ```roslaunch velodyne_description example.launch```
 
 # Example Gazebo Robot (with GPU)
